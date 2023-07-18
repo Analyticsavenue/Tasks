@@ -93,7 +93,10 @@ if sales are lesser than 400 then 'low'					<BR>
 10) Customer info of all the columns for the maximum order date				<BR> 																					
 11) No .of Unique Customers from Texas and New york					<BR> 																				
 o/p No_of_cust_texas |  No_of_cust_New_york					<BR> 																				
-   
+12) Lead and lag
+<BR>
+for the dataset created in the lead and lag session complete the following
+<BR> a) Run and execute the code shared and add an additional column profit_status if the change in percentage is positive it should be profit else loss
 
 
 
