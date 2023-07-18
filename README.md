@@ -13,7 +13,9 @@ Naming convertion:
   1) certificate <BR>
 	2) Interactive dashboard
  <BR>
-6_WindowsFunction	
+6_WindowsFunction
+ <BR>
+7_Lead_Lag
 
 <BR> Deadine: June _10 2023
 <BR> Task 1 : 
