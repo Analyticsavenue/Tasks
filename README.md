@@ -60,6 +60,8 @@ also look into be the below sheet (Common Tasks section) for constraints and col
 ---Case 4: Pick the employee with least salary in each location <BR> 
 <BR> 
 8. Store the ad-hoc tasks in a repository 3_Adhoc <BR> 
+Dataset: https://drive.google.com/file/d/1GYKOVBtZxu8UhgjjZ3MeHec6r4MyPB3z/view?usp=drive_linkhttps://drive.google.com/file/d/15CJbFAduij3L5wfpfirpFp9HVcRBNOQE/view?usp=drive_link (Sales data) 
+<BR>
 After importing the sales data set run the below code link: **https://github.com/Analyticsavenue/sample_code/blob/main/Sales_analysis_main.sql**
 <BR>
 Then perform the below tasks <BR> 
